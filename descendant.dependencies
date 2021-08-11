@@ -1,11 +1,11 @@
 [
     {
-        "repository":   "device_realme_sdm710-common",
+        "repository":   "Descendant-Devices/device_realme_sdm710-common",
         "target_path":  "device/realme/sdm710-common",
         "branch":       "eleven"
     },
     {
-        "repository":   "kernel_realme_RMX1971",
+        "repository":   "Descendant-Devices/kernel_realme_RMX1971",
         "target_path":  "kernel/realme/RMX1971",
         "branch":       "eleven"
     },
